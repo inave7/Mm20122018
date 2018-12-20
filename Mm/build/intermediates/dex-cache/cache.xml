@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\NG00521184\.gradle\caches\transforms-1\files-1.1\circularSeekBar-1.1.7.aar\9022f516d058ea359c7cce13ae8898b8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c6b0a225c14cd219bbf76d025b2c50411af410c">
+        <dex dex="C:\Users\NG00521184\Desktop\Today\Mm18122018\Mm\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NG00521184\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.15.aar\8d9f81568c8d120f39689d4f900fb92c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="968e7f49553a7758720f1df3771aea03eca1d60f">
+        <dex dex="C:\Users\NG00521184\Desktop\Today\Mm18122018\Mm\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NG00521184\.gradle\caches\transforms-1\files-1.1\fpcalc-android-1.0.1.aar\d4107f6da149559c40f4fcec66c7fff2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bce4527cda20bb4292edd781f2095e32c140c865">
+        <dex dex="C:\Users\NG00521184\Desktop\Today\Mm18122018\Mm\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NG00521184\.gradle\caches\transforms-1\files-1.1\explosionfield-1.0.1.aar\7a7949f7be1c9ca7826ba3a56773d889\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f82998f0794dfe2b65edd561ac0b34b536e7ff9a">
+        <dex dex="C:\Users\NG00521184\Desktop\Today\Mm18122018\Mm\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+
+</items>
